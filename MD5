@@ -1,4 +1,4 @@
-a9435ea8ac732c9a9a6147befed58e53 *DESCRIPTION
+60613e1bac20b64dfd9e663b7ac57715 *DESCRIPTION
 1af0dc8228cffa4c846b26fa16cc7fbd *LICENSE
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 5d8542266d08254cb7e75b9dbb3bf5aa *data/Koenigsberg.rda
@@ -10,7 +10,7 @@ a2f745445c13799de1e2dc07a4c932c8 *data/karate.rda
 a8e48dfaa08acd77c48e0293f3e4a48b *data/macaque.rda
 cba5ab0d62f0d5bc5e4fbffac67cdfbd *data/yeast.rda
 429bbe180be669743ad7cdf4c7e192bd *inst/CITATION
-8dec6255fdbad2c3c538f7931cf4fd6f *inst/getdata.R
+fe213e092ce30a9f8db6d90b82f4255a *inst/getdata.R
 d1f2c8d2ab18b02503c404c513e4ec7a *man/Koenigsberg.Rd
 000ce898d45818ee1604cb32a187bdfc *man/UKfaculty.Rd
 3f8b0ac6bdb47df256ac52b3282bff70 *man/USairports.Rd
