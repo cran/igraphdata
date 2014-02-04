@@ -1,4 +1,4 @@
-60613e1bac20b64dfd9e663b7ac57715 *DESCRIPTION
+7d27925f86c9101ce0b211f6a7bb165d *DESCRIPTION
 1af0dc8228cffa4c846b26fa16cc7fbd *LICENSE
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 5d8542266d08254cb7e75b9dbb3bf5aa *data/Koenigsberg.rda
@@ -6,7 +6,7 @@ b1d0b831aec4d7b162e29a1fa1e195ad *data/UKfaculty.rda
 5fb136373c2dbfbce9d46a4861e0bf32 *data/USairports.rda
 24b510cfe9b3b71635809c83ad54ab0c *data/foodwebs.rda
 f8e8faa6918c57fae809104cd40b5bb6 *data/immuno.rda
-a2f745445c13799de1e2dc07a4c932c8 *data/karate.rda
+9a31061571cc8f4f167709a049e76fbe *data/karate.rda
 a8e48dfaa08acd77c48e0293f3e4a48b *data/macaque.rda
 cba5ab0d62f0d5bc5e4fbffac67cdfbd *data/yeast.rda
 429bbe180be669743ad7cdf4c7e192bd *inst/CITATION
@@ -17,6 +17,6 @@ d1f2c8d2ab18b02503c404c513e4ec7a *man/Koenigsberg.Rd
 43c2f1d567d87c024d2e271b9e1b0cf0 *man/aaa-igraphdata-package.Rd
 572e51d4515c1027960f5a2919e5c2a4 *man/foodwebs.Rd
 56fc6ccb685b9a827220a7aafedf33b3 *man/immuno.Rd
-40a95c52cdcdd57728217fe14cec0f5a *man/karate.Rd
+e5f7cd3b8c5b0151febe3a71b6526ef2 *man/karate.Rd
 9f79b51a4425b2d3f13c5ddbd966548a *man/macaque.Rd
 6b7d76c4d8004e699b2969f26da6b321 *man/yeast.Rd
