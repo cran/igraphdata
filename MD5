@@ -1,4 +1,4 @@
-7d27925f86c9101ce0b211f6a7bb165d *DESCRIPTION
+b3093b462e3fccab701979aaf925c1dc *DESCRIPTION
 1af0dc8228cffa4c846b26fa16cc7fbd *LICENSE
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 5d8542266d08254cb7e75b9dbb3bf5aa *data/Koenigsberg.rda
@@ -9,7 +9,6 @@ f8e8faa6918c57fae809104cd40b5bb6 *data/immuno.rda
 9a31061571cc8f4f167709a049e76fbe *data/karate.rda
 a8e48dfaa08acd77c48e0293f3e4a48b *data/macaque.rda
 cba5ab0d62f0d5bc5e4fbffac67cdfbd *data/yeast.rda
-429bbe180be669743ad7cdf4c7e192bd *inst/CITATION
 fe213e092ce30a9f8db6d90b82f4255a *inst/getdata.R
 d1f2c8d2ab18b02503c404c513e4ec7a *man/Koenigsberg.Rd
 000ce898d45818ee1604cb32a187bdfc *man/UKfaculty.Rd
